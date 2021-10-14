@@ -1,15 +1,22 @@
-### Hi there, I'm Lapo 👋 
+## Hi there, I'm Lapo 👋 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-## I'm a Sofware Engineer
+### I'm a Sofware Engineer
 
-- 🔭  I’m currently working as a Software Engineer @ [Extendi](https://www.extendi.it), based in Florence, Italy
-- 🥅  2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess!
+- I’m currently working as a **Software Engineer** @ [Extendi](https://www.extendi.it), based in Florence, Italy
+- 2022 Goals: Contribute more to **Open Source** projects
+- Fun fact: I love to play **chess**!
 
 ![Code](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+<br />
+<br />
+
+### Certifications
+
+- ![Google](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.it%2Ficon%2F17949%2Flogo-di-google&psig=AOvVaw2yqNf3_wtNcZHGhJc8u7Qx&ust=1634276556403000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMia_9-YyfMCFQAAAAAdAAAAABAS)
 
 <br />
 <br />
