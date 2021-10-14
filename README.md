@@ -16,8 +16,8 @@
 
 ### Certifications
 
-- <img align="left" alt="Google" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/google-logo.png" />
-- <img align="left" alt="Google" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/harvard-logo.png" />
+- <img align="left" alt="Google" width="64px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/google-logo.png" />
+- <img align="left" alt="Google" width="64px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/harvard-logo.png" />
 
 <br />
 <br />
