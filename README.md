@@ -1,28 +1,57 @@
 ## Hi there, I'm Lapo 👋 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+![][ruby-shield]
 
+### I'm a Software Engineer
 
-### I'm a Sofware Engineer
+```Ruby
+  class Lapo < SofwareEngineer
+    include MotorSport::Enthusiast
+    
+    def initialize
+      @job = Extendi.senior(:software_engineer)
+      @location = Italy::Florence.new(🇮🇹)
+      @goal_2022 = OpenSource.more
+    end
+    
+    private
+    
+      def chess
+        ♟️
+      end
+      
+      def travel
+        ❤️
+      end
+  
+  end
 
-- I’m currently working as a **Software Engineer** @ [Extendi](https://www.extendi.it), based in Florence, Italy
-- 2022 Goals: Contribute more to **Open Source** projects
-- Fun fact: I love to play **chess**!
-
-![Code](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</p>
 
 <br />
 
-### Achievements
+---
 
-- <img align="left" alt="Google" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/google-logo.png" /> Google Data Analytics
-- <img align="left" alt="Google" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/google-logo.png" /> Google Digital Marketing
-- <img align="left" alt="Harvard" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/harvard-shield-logo.png" /> Harvard CS50AI - Artificial Intelligence with Python
+### Open Source Contribution
 
-<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LapoElisacci" />
+</p>
 
-![](https://github.com/LapoElisacci/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/LapoElisacci/github-stats/blob/master/generated/languages.svg)
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/languages.svg" />
+</p>
+
+---
 
 ### Languages and Tools:
 
@@ -44,20 +73,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[code-gif-url]: https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/lapo-elisacci-8824501b3/
-[product-screenshot]: images/screenshot.png
+[ruby-shield]: https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+
 
 <!--
 **LapoElisacci/LapoElisacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
