@@ -12,15 +12,13 @@
 ![Code](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <br />
-<br />
 
-### Certifications
+### Achievements
 
 - <img align="left" alt="Google" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/google-logo.png" /> Google Data Analytics
 - <img align="left" alt="Google" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/google-logo.png" /> Google Digital Marketing
-- <img align="left" alt="Harvard" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/harvard-logo.png" /> Harvard CS50AI - Artificial Intelligence with Python
+- <img align="left" alt="Harvard" width="26px" src="https://github.com/LapoElisacci/LapoElisacci/blob/main/harvard-shield-logo.png" /> Harvard CS50AI - Artificial Intelligence with Python
 
-<br />
 <br />
 
 ![](https://github.com/LapoElisacci/github-stats/blob/master/generated/overview.svg)
