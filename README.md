@@ -53,6 +53,12 @@
 
 ---
 
+### Coding Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -70,7 +76,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true&title=MultiLanguage) -->
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [code-gif-url]: https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
