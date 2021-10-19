@@ -70,6 +70,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)  -->
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [code-gif-url]: https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
