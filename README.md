@@ -1,33 +1,8 @@
-## Hi there, I'm Lapo 👋  <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
+## Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![][ruby-shield]
 
-### I'm a Software Engineer
-
-```Ruby
-  class Lapo < SofwareEngineer
-    include MotorSport::Enthusiast.for(🏍️)
-    
-    def initialize
-      @job = Extendi.senior(:software_engineer)
-      @location = Italy::Florence.new(🇮🇹)
-      @goal_2022 = OpenSource.more
-    end
-    
-    private
-    
-      def chess
-        ♟️
-      end
-      
-      def travel
-        ❤️
-      end
-  
-  end
-
-```
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </p>
