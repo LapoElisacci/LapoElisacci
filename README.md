@@ -1,4 +1,4 @@
-## Hi there, I'm Lapo 👋 
+## Hi there, I'm Lapo 👋  <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![][ruby-shield]
