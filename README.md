@@ -55,7 +55,7 @@
 
 ### Coding Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true&title=MultipleLang,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
