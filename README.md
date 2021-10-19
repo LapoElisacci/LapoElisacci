@@ -7,7 +7,7 @@
 
 ```Ruby
   class Lapo < SofwareEngineer
-    include MotorSport::Enthusiast.for(:moto_gp)
+    include MotorSport::Enthusiast.for(:MotoGP)
     
     def initialize
       @job = Extendi.senior(:software_engineer)
