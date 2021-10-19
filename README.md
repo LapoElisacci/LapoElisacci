@@ -36,7 +36,7 @@
 
 ---
 
-### Open Source Contribution
+### Source Code Contribution
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LapoElisacci" />
