@@ -70,26 +70,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)  -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&no-bg=true) -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [code-gif-url]: https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/lapo-elisacci-8824501b3/
 [ruby-shield]: https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
-
-
-<!--
-**LapoElisacci/LapoElisacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
