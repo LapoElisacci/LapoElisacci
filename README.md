@@ -1,4 +1,4 @@
-# Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
+# Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=green" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![][ruby-shield]
