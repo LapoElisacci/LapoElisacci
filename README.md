@@ -1,4 +1,4 @@
-## Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
+# Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![][ruby-shield]
@@ -9,32 +9,24 @@
 
 <br />
 
----
-
-### Source Code Contribution
+## Source Code Contribution
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LapoElisacci" />
 </p>
 
----
-
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/languages.svg" />
 </p>
 
----
-
-### Coding Achievements:
+## Coding Achievements:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&title=MultipleLang,Organizations,Commit&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
