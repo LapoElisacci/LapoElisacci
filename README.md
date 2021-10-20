@@ -30,7 +30,7 @@
 
 ### Coding Achievements:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&title=MultipleLang,Organizations,Commit&margin-w=11)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&title=MultipleLang,Organizations,Commit&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
