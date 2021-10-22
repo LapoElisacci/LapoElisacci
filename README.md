@@ -1,13 +1,9 @@
 # Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=green" />
 
+[![1621612799559](https://user-images.githubusercontent.com/50866745/138489698-96b883fd-267f-4f67-8527-b5b3801019a2.jpeg)](https://www.extendi.it)
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![][ruby-shield]
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-</p>
-
-<br />
 
 ## Source Code Contribution
 
