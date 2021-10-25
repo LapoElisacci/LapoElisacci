@@ -1,4 +1,4 @@
-# Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=green" />
+# Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
 
 [![1621612799559](https://user-images.githubusercontent.com/50866745/138489698-96b883fd-267f-4f67-8527-b5b3801019a2.jpeg)](https://www.extendi.it)
 
