@@ -18,9 +18,16 @@
   <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/languages.svg" />
 </p>
 
-## Coding Achievements:
+## Coding Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&title=MultipleLang,Organizations,Commit&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Achievements:
+
+<p align="center">
+  <img width="200px" src="https://user-images.githubusercontent.com/50866745/147211458-1de6ca06-d739-4040-8956-87ffc6a45e22.png" />
+  <img width="200px" src="https://user-images.githubusercontent.com/50866745/147211469-50475353-f50f-4636-be5b-4f3ea7867719.png" />
+</p>
 
 ## Languages and Tools:
 
