@@ -1,7 +1,7 @@
 # Hi there, I'm Lapo 👋 - Software Engineer <img align="right" src="https://komarev.com/ghpvc/?username=LapoElisacci&label=VIEWS&color=lightgrey" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![][ruby-shield]
+[![RubyGems][ruby-shield]][rubygems-url]
 
 ## Source Code Contribution
 
@@ -50,4 +50,5 @@
 [code-gif-url]: https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/lapo-elisacci-8824501b3/
-[ruby-shield]: https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+[ruby-shield]: https://img.shields.io/badge/RubyGems-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+[rubygems-url]: https://rubygems.org/profiles/LapoElisacci
