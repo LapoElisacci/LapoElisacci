@@ -7,21 +7,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LapoElisacci" />
-  <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/overview.svg" />
 </p>
-
-<!---
-## GitHub Stats
-
 <p align="center">
   <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/LapoElisacci/github-stats/blob/master/generated/languages.svg" />
 </p>
--->
 
 ## Coding Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LapoElisacci&title=MultipleLang,Organizations,Commit&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LapoElisacci&title=MultipleLang,Organizations,Commit&margin-w=10&column=3" />
+</p>
 
 ## Achievements:
 
