@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Lapo 👋
 <div align="left">
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
@@ -11,10 +11,6 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![RubyGems][ruby-shield]][rubygems-url]
-
-## I am Lapo
-
-- Developer at [Extendi](https://www.extendi.it)
 
 ![Metrics](https://github.com/LapoElisacci/LapoElisacci/blob/main/github-metrics.svg)
 ![Most used languages](https://github.com/LapoElisacci/LapoElisacci/blob/main/language.svg)
