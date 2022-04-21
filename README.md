@@ -1,12 +1,10 @@
 # Hi there, I'm Lapo 👋
 <div align="left">
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/LapoElisacci/LapoElisacci/blob/main/devcard.svg"
-    />
-  </a>
+  <img
+    width="256"
+    align="right"
+    src="https://github.com/LapoElisacci/LapoElisacci/blob/main/devcard.svg"
+  />
 </div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
