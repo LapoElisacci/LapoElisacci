@@ -1,4 +1,7 @@
 # Hi there, I'm Lapo 👋
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![RubyGems][ruby-shield]][rubygems-url]
+
 <div align="left">
   <img
     width="256"
@@ -6,9 +9,6 @@
     src="https://github.com/LapoElisacci/LapoElisacci/blob/main/devcard.svg"
   />
 </div>
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![RubyGems][ruby-shield]][rubygems-url]
 
 ![Metrics](https://github.com/LapoElisacci/LapoElisacci/blob/main/github-metrics.svg)
 ![Most used languages](https://github.com/LapoElisacci/LapoElisacci/blob/main/language.svg)
