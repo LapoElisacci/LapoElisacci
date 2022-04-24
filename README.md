@@ -1,4 +1,7 @@
-# Hi there, I'm Lapo 👋
+<div align="center">
+  <img width="920" alt="lapo rb" src="https://user-images.githubusercontent.com/50866745/164978589-7eefb2ab-0701-4bb9-8e12-e359cd596a3b.png">
+</div>
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![RubyGems][ruby-shield]][rubygems-url]
 
