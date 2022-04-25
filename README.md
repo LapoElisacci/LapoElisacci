@@ -2,6 +2,14 @@
   <img width="920" alt="lapo rb" src="https://user-images.githubusercontent.com/50866745/164978589-7eefb2ab-0701-4bb9-8e12-e359cd596a3b.png">
 </div>
 
+<div align="left">
+  <img
+    width="180"
+    align="right"
+    src="https://github.com/LapoElisacci/LapoElisacci/blob/main/devcard.svg"
+  />
+</div>
+
 ![Metrics](https://github.com/LapoElisacci/LapoElisacci/blob/main/github-metrics.svg)
 ![Most used languages](https://github.com/LapoElisacci/LapoElisacci/blob/main/language.svg)
 ![Notable contributions](https://github.com/LapoElisacci/LapoElisacci/blob/main/notable.svg)
