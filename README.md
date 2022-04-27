@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="920" alt="lapo rb" src="https://user-images.githubusercontent.com/50866745/164978589-7eefb2ab-0701-4bb9-8e12-e359cd596a3b.png">
-</div>
-
 <div align="left">
   <img
     width="180"
