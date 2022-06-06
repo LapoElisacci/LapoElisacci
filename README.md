@@ -1,3 +1,4 @@
+<!-- 
 <div align="left">
   <img
     width="180"
@@ -5,6 +6,7 @@
     src="https://github.com/LapoElisacci/LapoElisacci/blob/main/devcard.svg"
   />
 </div>
+-->
 
 ![Metrics](https://github.com/LapoElisacci/LapoElisacci/blob/main/github-metrics.svg)
 ![Most used languages](https://github.com/LapoElisacci/LapoElisacci/blob/main/language.svg)
