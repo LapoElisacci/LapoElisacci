@@ -13,7 +13,9 @@
 ![Notable contributions](https://github.com/LapoElisacci/LapoElisacci/blob/main/notable.svg)
 ![Achievements](https://github.com/LapoElisacci/LapoElisacci/blob/main/achievements.svg)
 
+<!-- 
 [![My Skills](https://skillicons.dev/icons?i=aws,cassandra,docker,electron,gitlab,graphql,js,kubernetes,nodejs,postgres,py,rails,redis,ruby)](https://skillicons.dev)
+-->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![RubyGems][ruby-shield]][rubygems-url]
